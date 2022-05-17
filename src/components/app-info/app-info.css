@@ -1,0 +1,15 @@
+.app-info {
+    padding: 25px;
+    background-color: #3d5a80;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+    color: #fff;
+}
+
+.app_company_color {
+    color: rgb(237, 241, 7);
+}
+
+.app_company {
+    text-align: center;
+}
